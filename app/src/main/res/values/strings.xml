@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Prasangam</string>
+    <string name="total">Total</string>
+    <string name="assign">Assign</string>
+    <string name="not_assign">Not Assign</string>
+    <string name="add">Add Prasangam</string>
+    <string name="upload">Upload Prasangam</string>
+    <string name="download">Download Prasangam</string>
+    <string name="receive">Receive Prasangam</string>
+    <string name="send">Send Prasangam</string>
+
+    //shivani 23/10
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+
+    <string name="text_hint">Enter Message</string>
+
+    //divya 23/10
+    <string name="launch_file_picker">Launch File Picker</string>
+    <string name="file_thumbnail">File thumbnail</string>
+    <string name="path">Path : %1$s</string>
+    <string name="size">Size :  %1$d</string>
+    <string name="mime">Mime: %1$s</string>
+    <string name="type">Type : %1$d</string>
+    <string name="name">Name : %1$s</string>
+    <string name="bucketname">BucketName : %1$s</string>
+    <string name="launch_audio_picker">Launch audio picker</string>
+    <string name="launch_video_picker">Launch video picker</string>
+    <string name="launch_image_picker">Launch image picker</string>
+    <string name="share_log">Share Log</string>
+    <string name="str_select_image">Select Image</string>
+
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="tap_on_mic">Tap on mic to speak</string>
+
+
+    <string name="language_en">English</string>
+    <string name="language_gujrati">Gujrati</string>
+    <string name="language">Select Language</string>
+</resources>
