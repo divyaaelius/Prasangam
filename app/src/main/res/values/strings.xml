@@ -8,7 +8,7 @@
     <string name="download">Download Prasangam</string>
     <string name="receive">Receive Prasangam</string>
     <string name="send">Send Prasangam</string>
-
+    <string name="commit_first">First commit</string>
     //shivani 23/10
     <string name="login">Login</string>
     <string name="signup">Sign Up</string>
